@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pandas
+
+#pip install -r requirements.txt
+#python color_detection.py -i sample.jpg
