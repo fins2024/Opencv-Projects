@@ -1,0 +1,6 @@
+python-opencv
+numpy
+matplotlib
+
+
+#in motionDetector.py change the image path . if you want to add your own video add a file in img section and change the image path 
